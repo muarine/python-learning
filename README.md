@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## 基础入门
 > 1.[教程地址](http://www.liaoxuefeng.com/)
 
@@ -20,6 +19,3 @@ set	key集合
 
 
 
-=======
-# python-learning
->>>>>>> edfeb249e2ae98b81aa8fcee863f4e2f0b8b6e0a
